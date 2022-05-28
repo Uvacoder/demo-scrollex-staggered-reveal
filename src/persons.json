@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amelia Wattenberger",
+    "role": "Developer",
+    "img": "https://d33wubrfki0l68.cloudfront.net/ae9996d6a97310cf0f8f8ac51d8c27d6cf0d7e83/78cb4/images/speakers/amelia-wattenberger.jpg"
+  },
+  {
+    "name": "Bruno Arizio",
+    "role": "Designer",
+    "img": "https://pbs.twimg.com/profile_images/1331206672669401090/vRNrvFBy_400x400.jpg"
+  },
+  {
+    "name": "Cassidy Williams",
+    "role": "Developer",
+    "img": "https://pbs.twimg.com/profile_images/1471241948853936132/1d5PR5ge_400x400.jpg"
+  },
+  {
+    "name": "Ives van Hoorne",
+    "role": "Developer",
+    "img": "https://pbs.twimg.com/profile_images/911719483273867265/ceD742T-_400x400.jpg"
+  },
+  {
+    "name": "Paul Henschel",
+    "role": "Developer",
+    "img": "https://pbs.twimg.com/profile_images/1362053856247623680/q23Y_71D_400x400.jpg"
+  },
+  {
+    "name": "Pedro Duarte",
+    "role": "Developer",
+    "img": "https://pbs.twimg.com/profile_images/1518360692365082624/SlnFrH3b_400x400.jpg"
+  }
+]
